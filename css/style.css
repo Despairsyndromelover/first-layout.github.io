@@ -274,7 +274,7 @@ button {
 }
 
 .splashscreen {
-  background: url(/img/MAIN-BG.jpg) no-repeat center center/cover;
+  background: url(../img/MAIN-BG.jpg) no-repeat center center/cover;
   position: relative;
   overflow: hidden;
 }
